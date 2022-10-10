@@ -1,6 +1,6 @@
 {
   "name": "@prrashi/nuts",
-  "version": "3.1.1-beta.5",
+  "version": "3.1.1-beta.6",
   "description": "Server to make GitHub releases (private) available to download with Squirrel support",
   "main": "./lib/index.js",
   "homepage": "https://github.com/GitbookIO/nuts",
